@@ -59,7 +59,7 @@ async def handle_audio(message: types.Message):
     await bot.download_file(file.file_path, audio_path)
     if not os.path.exists(audio_path):
         return
-    await message.answer_voice(voice=FSInputFile("audio_path"))
+    await message.answer_voice(voice=FSInputFile(audio_path))
     
 async def main():
     await dp.start_polling(bot)
