@@ -1,6 +1,6 @@
 # Telegram-Bot-Converter!
 
-![Header](https://i.ibb.co/pJwpFyB/Screenshot-2.png)
+![Header](https://nztcdn.com/files/20021436-1a57-4218-bcc2-56b534f67ee3.webp)
 
 
 ---
